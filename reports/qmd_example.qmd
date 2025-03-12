@@ -8,6 +8,8 @@ format:
   pdf:
     toc: true
     fig-pos: "H"
+execute:
+  echo: false
 editor: source
 bibliography: references.bib
 ---
